@@ -1,1 +1,0 @@
-"""Agentic search event subscribers."""
